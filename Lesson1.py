@@ -6,3 +6,8 @@ sum = num1 + num2
 
 isNmun = True
 print(sum)
+
+NAME = 'TOCHUKWU'
+another = 'henry'
+combine = NAME + ' ' + another
+print(combine) 

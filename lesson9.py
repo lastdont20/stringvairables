@@ -47,13 +47,15 @@ print(go)
 
 
 
-
+'''''''''
 ab = '01.presentation.pdf'
 cd = ab[:-4]
 ef,gh=cd.split('.')
 print(cd)
 print(ef)
 print(gh)
+'''''
+
 
 
 
